@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">PlayerApp</string>
+    <string name="mesut">Mesut Özil</string>
+    <string name="pierre">Pierre-Emerick Aubameyang</string>
+    <string name="aaron">Aaron Ramsey</string>
+    <string name="alexandre">Alexandre Lacazette</string>
+    <string name="denis">Denis Suárez</string>
+    <string name="shkodran">Shkodran Mustafi</string>
+    <string name="henrikh">Henrikh Mkhitaryan</string>
+    <string name="granit">Granit Xhaka</string>
+    <string name="hector">Héctor Bellerín</string>
+    <!--song Artists-->
+    <string name="mesut_height">1.8</string>
+    <string name="pierre_height">1.87</string>
+    <string name="aaron_height">1.78</string>
+    <string name="alexandre_height">1.75</string>
+    <string name="denis_height">1.76</string>
+    <string name="shkodran_height">1.84</string>
+    <string name="henrikh_height">1.78</string>
+    <string name="granit_height">1.85</string>
+    <string name="hector_height">1.78</string>
+    <!--song Artists-->
+    <string name="mesut_nat">Germany</string>
+    <string name="pierre_nat">France</string>
+    <string name="aaron_nat">UK</string>
+    <string name="alexandre_nat">France</string>
+    <string name="denis_nat">Spain</string>
+    <string name="shkodran_nat">Germany</string>
+    <string name="henrikh_nat">Armenia</string>
+    <string name="granit_nat">Switzerland</string>
+    <string name="hector_nat">Spain</string>
+    <!--song Artists-->
+    <string name="mesut_age">30</string>
+    <string name="pierre_age">29</string>
+    <string name="aaron_age">28</string>
+    <string name="alexandre_age">27</string>
+    <string name="denis_age">25</string>
+    <string name="shkodran_age">27</string>
+    <string name="henrikh_age">30</string>
+    <string name="granit_age">26</string>
+    <string name="hector_age">24</string>
+</resources>
